@@ -1,0 +1,67 @@
+baseURL = "https://amarinderca.github.io"
+languageCode = "en-us"
+title = "Amarinder Cheema"
+theme = "hello-friend-ng"
+paginate     = 10
+
+[params]
+
+  # Subtitle for home
+  homeSubtitle = "Amar•Inder"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Metadata mostly used in document's head
+  description = "About page for Amarinder"
+  keywords = "homepage, tutorials, about"
+  images = [""]
+  
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+
+[params.logo]
+  logoText = "home"
+  logoHomeLink = "/"
+
+
+# social
+[[params.social]]
+   name = "email"
+   url  = "mailto:mailbox@amarinder.ca"
+
+[[params.social]]
+   name = "linkedin"
+   url  = "https://www.linkedin.com/in/amarinderca"
+
+[[params.social]]
+   name = "twitter"
+   url  = "https://twitter.com/amarinderca"
+
+[[params.social]]
+   name = "github"
+   url  = "https://github.com/amarinderca"
+
+  # And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name       = "posts"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "about"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
