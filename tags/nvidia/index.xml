@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nvidia on Amarinder Cheema</title>
+    <link>https://amarinderca.github.io/tags/nvidia/</link>
+    <description>Recent content in nvidia on Amarinder Cheema</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 08 Apr 2022 17:22:56 -0700</lastBuildDate><atom:link href="https://amarinderca.github.io/tags/nvidia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new oc</title>
+      <link>https://amarinderca.github.io/posts/new-oc/</link>
+      <pubDate>Fri, 08 Apr 2022 17:22:56 -0700</pubDate>
+      
+      <guid>https://amarinderca.github.io/posts/new-oc/</guid>
+      <description>Why OC again?  Upgraded to latest BIOS version for B550M Mortar Wifi: 7C94v1B RAM OC was unstable since first overclocked last year Upgraded to Windows 11 (fresh install)  RAM Kit Used (CJR - Dual Rank 2x16GB)  G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory  Stable 3800MHz Setup  3800MHz/1900FCLK 16-21-16-21-36-56 CAS Latency 1.42v DRAM 1.1125v SOC 0.95v VDDP 1.01v IOD/CCD  RAM Test Passed</description>
+    </item>
+    
+  </channel>
+</rss>
