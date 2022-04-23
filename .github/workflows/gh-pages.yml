@@ -30,7 +30,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.SERVER_SSH_KEY }}
+          github_token: ${{ secrets.deploy_key }}
           ARGS: "-rlgoDzvc -i"
           publish_dir: ./public
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
