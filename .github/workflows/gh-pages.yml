@@ -31,7 +31,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.deploy_key }}
-          ARGS: "-rlgoDzvc -i"
           publish_dir: ./public
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
