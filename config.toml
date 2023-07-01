@@ -42,10 +42,6 @@ paginate     = 10
    url  = "https://www.linkedin.com/in/amarinderca"
 
 [[params.social]]
-   name = "twitter"
-   url  = "https://twitter.com/amarinderca"
-
-[[params.social]]
    name = "github"
    url  = "https://github.com/amarinderca"
 
