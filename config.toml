@@ -51,10 +51,6 @@ paginate     = 10
     identifier = "posts"
     name       = "posts"
     url        = "posts/"
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "about"
 
 [languages]
   [languages.en]
