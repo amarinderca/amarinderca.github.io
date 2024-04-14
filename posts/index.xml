@@ -18,25 +18,25 @@
 <li>1.01v IOD/CCD</li>
 </ul>
 <h3 id="ram-test-passed">RAM Test Passed</h3>
-<p><a href="https://postimg.cc/crxWN3GW"><img src="https://i.postimg.cc/tCP4Wdrs/test-result.png" alt="test-result.png"></a></p>
+<p><a href="https://postimg.cc/crxWN3GW"><img alt="test-result.png" src="https://i.postimg.cc/tCP4Wdrs/test-result.png"></a></p>
 <h3 id="geforce-rtx-3070-xc3-black-oc">GeForce RTX 3070 XC3 BLACK OC</h3>
 <ul>
 <li>+120 clock - 1620 MHz</li>
 <li>+1000 vram - 2000 MHz</li>
 </ul>
-<p><a href="https://postimg.cc/ZvLwc0wF"><img src="https://i.postimg.cc/3Nsz3vp6/gpu-oc.png" alt="gpu-oc.png"></a></p>
-<p><img src="https://i.postimg.cc/CMR1LpkH/gpuz.png" alt="gpuz.png"></p>
+<p><a href="https://postimg.cc/ZvLwc0wF"><img alt="gpu-oc.png" src="https://i.postimg.cc/3Nsz3vp6/gpu-oc.png"></a></p>
+<p><img alt="gpuz.png" src="https://i.postimg.cc/CMR1LpkH/gpuz.png"></p>
 <h3 id="timespy-loop-stress-test---sensors">Timespy Loop Stress Test - Sensors</h3>
-<p><a href="https://postimg.cc/7fKkPLq2"><img src="https://i.postimg.cc/P5jr4Lc2/gpu-stress-sens.png" alt="gpu-stress-sens.png"></a></p>
+<p><a href="https://postimg.cc/7fKkPLq2"><img alt="gpu-stress-sens.png" src="https://i.postimg.cc/P5jr4Lc2/gpu-stress-sens.png"></a></p>
 <h4 id="aida">AIDA</h4>
-<p><img src="https://i.postimg.cc/sfb2MHJF/mem-bench.png" alt="mem-bench.png"></p>
+<p><img alt="mem-bench.png" src="https://i.postimg.cc/sfb2MHJF/mem-bench.png"></p>
 <h4 id="timespy">Timespy</h4>
-<p><a href="https://postimg.cc/RWqzWz0b"><img src="https://i.postimg.cc/sg4f0jCy/timespy.png" alt="timespy.png"></a></p>
+<p><a href="https://postimg.cc/RWqzWz0b"><img alt="timespy.png" src="https://i.postimg.cc/sg4f0jCy/timespy.png"></a></p>
 ]]></content></item><item><title>853.77 Cats Per Second</title><link>https://amarinderca.github.io/posts/853.77-cats-per-second/</link><pubDate>Thu, 07 Oct 2021 21:11:27 -0700</pubDate><guid>https://amarinderca.github.io/posts/853.77-cats-per-second/</guid><description>Fresh Setup Overview Purpose for the build is to work with CUDA for data science seperate from my gaming machine in compact build as I have limited desk space.
 Parts List PCPartPicker Part List
 Type Item Price CPU Intel Core i5-10400F 2.9 GHz 6-Core Processor Purchased For $209.99 CPU Cooler Deepcool GAMMAXX 400 V2 64.5 CFM CPU Cooler Purchased For $25.54 Motherboard ASRock B560M-ITX/ac Mini ITX LGA1200 Motherboard Purchased For $130.</description><content type="html"><![CDATA[<h2 id="fresh-setup">Fresh Setup</h2>
-<p><img src="https://i.postimg.cc/vm8Pn0yP/IMG-2156.jpg" alt="Parts"></p>
-<p><img src="https://i.postimg.cc/HLKQLzk8/IMG-2185.jpg" alt="Done"></p>
+<p><img alt="Parts" src="https://i.postimg.cc/vm8Pn0yP/IMG-2156.jpg"></p>
+<p><img alt="Done" src="https://i.postimg.cc/HLKQLzk8/IMG-2185.jpg"></p>
 <h2 id="overview">Overview</h2>
 <p>Purpose for the build is to work with CUDA for data science seperate from my gaming machine in compact build as I have limited desk space.</p>
 <h2 id="parts-list">Parts List</h2>
@@ -209,25 +209,25 @@ Type Item Price CPU Intel Core i5-10400F 2.9 GHz 6-Core Processor Purchased For 
 </tbody>
 </table>
 <h2 id="build-pics">Build Pics</h2>
-<p><img src="https://i.postimg.cc/HxVBZjVX/IMG-2158.jpg" alt="Case">
-<img src="https://i.postimg.cc/KjTQbV7Y/IMG-2159.jpg" alt="Cooler">
-<img src="https://i.postimg.cc/Y9Z8JkWV/IMG-2160.jpg" alt="Cooler2">
-<img src="https://i.postimg.cc/8zNw8Z71/IMG-2165.jpg" alt="PSU">
-<img src="https://i.postimg.cc/ZYvw6Bkh/IMG-2166.jpg" alt="GPU">
-<img src="https://i.postimg.cc/qMfjwJ06/IMG-2167.jpg" alt="MOBO">
-<img src="https://i.postimg.cc/9fxLYyFc/IMG-2168.jpg" alt="Case Side 1">
-<img src="https://i.postimg.cc/9FG1N6F8/IMG-2169.jpg" alt="Base Back">
-<img src="https://i.postimg.cc/tgg5J7dw/IMG-2170.jpg" alt="Case Front">
-<img src="https://i.postimg.cc/3RsCt1MQ/IMG-2171.jpg" alt="Case Top">
-<img src="https://i.postimg.cc/g2ssG3h3/IMG-2172.jpg" alt="Case Side 2">
-<img src="https://i.postimg.cc/gJXHy5TK/IMG-2173.jpg" alt="Case bottom">
-<img src="https://i.postimg.cc/6Q1hvwY3/IMG-2174.jpg" alt="Case barebones">
-<img src="https://i.postimg.cc/bYnRs7by/IMG-2175.jpg" alt="Case barebones 2">
-<img src="https://i.postimg.cc/CLVsDcHj/IMG-2176.jpg" alt="Case barebones 3">
-<img src="https://i.postimg.cc/Y0QNZFkG/IMG-2177.jpg" alt="Case barebones 4">
-<img src="https://i.postimg.cc/vHLLv53C/IMG-2178.jpg" alt="Case barebones 5">
-<img src="https://i.postimg.cc/BnS57tzb/IMG-2180.jpg" alt="RAM">
-<img src="https://i.postimg.cc/zf3C5681/IMG-2182.jpg" alt="Pre Wiring"></p>
+<p><img alt="Case" src="https://i.postimg.cc/HxVBZjVX/IMG-2158.jpg">
+<img alt="Cooler" src="https://i.postimg.cc/KjTQbV7Y/IMG-2159.jpg">
+<img alt="Cooler2" src="https://i.postimg.cc/Y9Z8JkWV/IMG-2160.jpg">
+<img alt="PSU" src="https://i.postimg.cc/8zNw8Z71/IMG-2165.jpg">
+<img alt="GPU" src="https://i.postimg.cc/ZYvw6Bkh/IMG-2166.jpg">
+<img alt="MOBO" src="https://i.postimg.cc/qMfjwJ06/IMG-2167.jpg">
+<img alt="Case Side 1" src="https://i.postimg.cc/9fxLYyFc/IMG-2168.jpg">
+<img alt="Base Back" src="https://i.postimg.cc/9FG1N6F8/IMG-2169.jpg">
+<img alt="Case Front" src="https://i.postimg.cc/tgg5J7dw/IMG-2170.jpg">
+<img alt="Case Top" src="https://i.postimg.cc/3RsCt1MQ/IMG-2171.jpg">
+<img alt="Case Side 2" src="https://i.postimg.cc/g2ssG3h3/IMG-2172.jpg">
+<img alt="Case bottom" src="https://i.postimg.cc/gJXHy5TK/IMG-2173.jpg">
+<img alt="Case barebones" src="https://i.postimg.cc/6Q1hvwY3/IMG-2174.jpg">
+<img alt="Case barebones 2" src="https://i.postimg.cc/bYnRs7by/IMG-2175.jpg">
+<img alt="Case barebones 3" src="https://i.postimg.cc/CLVsDcHj/IMG-2176.jpg">
+<img alt="Case barebones 4" src="https://i.postimg.cc/Y0QNZFkG/IMG-2177.jpg">
+<img alt="Case barebones 5" src="https://i.postimg.cc/vHLLv53C/IMG-2178.jpg">
+<img alt="RAM" src="https://i.postimg.cc/BnS57tzb/IMG-2180.jpg">
+<img alt="Pre Wiring" src="https://i.postimg.cc/zf3C5681/IMG-2182.jpg"></p>
 ]]></content></item><item><title>3800mhz cjr ram kit oc</title><link>https://amarinderca.github.io/posts/ram-oc/</link><pubDate>Sat, 28 Nov 2020 11:24:11 -0800</pubDate><guid>https://amarinderca.github.io/posts/ram-oc/</guid><description>RAM OC Guide Referenced DDR4 OC Guide RAM Kit Used (CJR) G.Skill Ripjaws V 32 GB (2 x 16 GB) DDR4-3600 CL16 Memory Stable 3800MHz Setup 3800MHz/1900FCLK 16-18-20-38 CAS Latency 1.42v DRAM 1.1125v SOC 1.025 VDDP 1v IOD/CCD Conclusion Lots of trial and error to get stable ram oc B-Die speeds at CJR prices Final Timings RAM Test Passed Benchmarks AIDA Timespy Before RAM OC 14,573 Score After RAM OC 14,800 Score</description><content type="html"><![CDATA[<h3 id="ram-oc-guide-referenced">RAM OC Guide Referenced</h3>
 <ul>
 <li><a href="https://github.com/integralfx/MemTestHelper/blob/master/DDR4%20OC%20Guide.md">DDR4 OC Guide</a></li>
@@ -251,12 +251,12 @@ Type Item Price CPU Intel Core i5-10400F 2.9 GHz 6-Core Processor Purchased For 
 <li>B-Die speeds at CJR prices</li>
 </ul>
 <h3 id="final-timings">Final Timings</h3>
-<p><img src="https://i.postimg.cc/bJtSVTV9/Zen-Timings-Screenshotv4.png" alt="zen timings"></p>
+<p><img alt="zen timings" src="https://i.postimg.cc/bJtSVTV9/Zen-Timings-Screenshotv4.png"></p>
 <h3 id="ram-test-passed">RAM Test Passed</h3>
-<p><img src="https://i.postimg.cc/3w6DZ61w/TM5v4.png" alt="mem test"></p>
+<p><img alt="mem test" src="https://i.postimg.cc/3w6DZ61w/TM5v4.png"></p>
 <h3 id="benchmarks">Benchmarks</h3>
 <h4 id="aida">AIDA</h4>
-<p><img src="https://i.postimg.cc/DzmXLFqD/aidav4.png" alt="aida mem bench"></p>
+<p><img alt="aida mem bench" src="https://i.postimg.cc/DzmXLFqD/aidav4.png"></p>
 <h4 id="timespy">Timespy</h4>
 <ul>
 <li><a href="https://www.3dmark.com/spy/15615101">Before RAM OC 14,573 Score</a></li>
@@ -292,27 +292,27 @@ I already own motherboard (low powered intel atom cpu embedded board), storage, 
 </ul>
 <h3 id="chelsio-sfp-card">Chelsio SFP+ Card?</h3>
 <p>It is very well supported by pfSense. I got it used on eBay for a reasonable price. It does run hot. I zip-tied a small fan to this card to fix this issue. The low profile bracket didn&rsquo;t have any locking mechanism but that was not an issue for me, it fits snugly.</p>
-<p><img src="https://i.postimg.cc/brTYNxps/IMG-0677.jpg" alt="chelsio sfp+ card"></p>
+<p><img alt="chelsio sfp+ card" src="https://i.postimg.cc/brTYNxps/IMG-0677.jpg"></p>
 <h3 id="s2-case-from-taobao">S2 Case from Taobao?</h3>
 <p>Cheaper than anything I could find in this form factor. Fits my requirements perfectly.</p>
-<p><a href="https://i.postimg.cc/bN7kt8h8/case-spec.png"><img src="https://i.postimg.cc/bN7kt8h8/case-spec.png" alt="case-spec.png"></a></p>
+<p><a href="https://i.postimg.cc/bN7kt8h8/case-spec.png"><img alt="case-spec.png" src="https://i.postimg.cc/bN7kt8h8/case-spec.png"></a></p>
 <p><strong>Pros:</strong> Arrived in 7 business days. Has 3 pin 2x case fans. Includes case fan hub. Includes good magnetic screw driver. Solid body construction. Easy to build in.</p>
 <p><strong>Cons:</strong> Bent side panels but easy aluminum to unbend. Some damage during shipping to where motherboard mounts from stuff bouncing around. No reset button. Kapton Tape helps when dealing with bright power led.</p>
 <h3 id="s2-pictures">S2 Pictures?</h3>
-<p><img src="https://i.postimg.cc/zXgR5MRQ/IMG-0668.jpg" alt="case">
-<img src="https://i.postimg.cc/cCKtvkkr/IMG-0669.jpg" alt="case main">
-<img src="https://i.postimg.cc/kMZt09D8/IMG-0670.jpg" alt="case back">
-<img src="https://i.postimg.cc/cCVgw7PT/IMG-0671.jpg" alt="case back io">
-<img src="https://i.postimg.cc/jSYnjXHS/IMG-0672.jpg" alt="case top">
-<img src="https://i.postimg.cc/Qdg9KTmk/IMG-0673.jpg" alt="case bottom">
-<img src="https://i.postimg.cc/ZqVWVz1W/IMG-0667.jpg" alt="mesh panel">
-<img src="https://i.postimg.cc/1z9gG3Yx/IMG-0666.jpg" alt="side panels">
-<img src="https://i.postimg.cc/Hxv7s12q/IMG-0665.jpg" alt="extras"></p>
+<p><img alt="case" src="https://i.postimg.cc/zXgR5MRQ/IMG-0668.jpg">
+<img alt="case main" src="https://i.postimg.cc/cCKtvkkr/IMG-0669.jpg">
+<img alt="case back" src="https://i.postimg.cc/kMZt09D8/IMG-0670.jpg">
+<img alt="case back io" src="https://i.postimg.cc/cCVgw7PT/IMG-0671.jpg">
+<img alt="case top" src="https://i.postimg.cc/jSYnjXHS/IMG-0672.jpg">
+<img alt="case bottom" src="https://i.postimg.cc/Qdg9KTmk/IMG-0673.jpg">
+<img alt="mesh panel" src="https://i.postimg.cc/ZqVWVz1W/IMG-0667.jpg">
+<img alt="side panels" src="https://i.postimg.cc/1z9gG3Yx/IMG-0666.jpg">
+<img alt="extras" src="https://i.postimg.cc/Hxv7s12q/IMG-0665.jpg"></p>
 <h3 id="build-pics">Build Pics?</h3>
-<p><img src="https://i.postimg.cc/LXFmtCsJ/IMG-0679.jpg" alt="build"></p>
+<p><img alt="build" src="https://i.postimg.cc/LXFmtCsJ/IMG-0679.jpg"></p>
 <h3 id="does-it-work">Does it work?</h3>
-<p><img src="https://i.postimg.cc/76zMc6DB/Annotation-2020-08-13-184354.png" alt="temps">
-<img src="https://i.postimg.cc/kgVCk36V/speed-test.png" alt="speed test"></p>
+<p><img alt="temps" src="https://i.postimg.cc/76zMc6DB/Annotation-2020-08-13-184354.png">
+<img alt="speed test" src="https://i.postimg.cc/kgVCk36V/speed-test.png"></p>
 ]]></content></item><item><title>new pc</title><link>https://amarinderca.github.io/posts/new-pc/</link><pubDate>Mon, 20 Jul 2020 15:17:38 -0700</pubDate><guid>https://amarinderca.github.io/posts/new-pc/</guid><description>i build a new personal pc
 specs: CPU: AMD Ryzen 9 3900X CPU Cooler: Noctua NH-D15S Motherboard: MSI MAG B550M Mortar Memory: G.Skill Ripjaws V 64 GB (4 x 16 GB) DDR4-3600 CL16 Storage: 2 x Western Digital SN750 1 TB M.2-2280 NVME SSD (in RAID0) Graphics Card: EVGA GeForce RTX 2060 6 GB KO Case: Cooler Master MasterBox NR400 Power Supply: EVGA 650W 80+ Gold PSU Custom Cables: CableMod M​odFlex Bas​ic Cable E​xtension K​it (Black) Case Fans: 3 x Arctic P12 RGB: Phanteks Neon more info: build + pics + overclock notes</description><content type="html"><![CDATA[<p>i build a new personal pc</p>
 <h3 id="specs">specs:</h3>
