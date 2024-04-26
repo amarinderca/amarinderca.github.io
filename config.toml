@@ -1,8 +1,8 @@
 baseURL = "https://amarinderca.github.io"
 languageCode = "en-us"
-title = "My Blog"
+title = "Home"
 theme = "hugo-theme-hello-friend-ng"
-paginate     = 10
+paginatei = 10
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -20,10 +20,10 @@ paginate     = 10
   enableSharingButtons = true
 
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Metadata mostly used in document's head
-  description = "Amarinder's Blog"
+  description = "Home"
   keywords = "homepage, blog, tutorials, about"
   images = [""]
   
@@ -48,7 +48,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "My Blog"
+    title = "Home"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -57,7 +57,7 @@ paginate     = 10
     subtitle  = "Amarinder's Blog"
 
     [languages.en.params.logo]
-      logoText = "My Blog"
+      logoText = "Home"
       logoHomeLink = "/"
 
   [[menu.main]]
