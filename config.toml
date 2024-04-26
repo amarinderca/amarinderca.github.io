@@ -1,35 +1,36 @@
 baseURL = "https://amarinderca.github.io"
 languageCode = "en-us"
-title = "Amarinder Cheema"
+title = "My Blog"
 theme = "hugo-theme-hello-friend-ng"
 paginate     = 10
 
 [params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Amar•Inder"
+  homeSubtitle = "Amarinder's Blog"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = true
+
   # Metadata mostly used in document's head
-  description = "About page for Amarinder"
-  keywords = "homepage, tutorials, about"
+  description = "Amarinder's Blog"
+  keywords = "homepage, blog, tutorials, about"
   images = [""]
   
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
-
 [taxonomies]
   category = "categories"
   tag      = "tags"
-
-[params.logo]
-  logoText = "home"
-  logoHomeLink = "/"
+  series   = "series"
 
 
 # social
@@ -45,15 +46,22 @@ paginate     = 10
    name = "github"
    url  = "https://github.com/amarinderca"
 
-  # And you can even create generic menu
-[menu]
+[languages]
+  [languages.en]
+    title = "My Blog"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+  [languages.en.params]
+    subtitle  = "Amarinder's Blog"
+
+    [languages.en.params.logo]
+      logoText = "My Blog"
+      logoHomeLink = "/"
+
   [[menu.main]]
     identifier = "posts"
     name       = "posts"
-    url        = "posts/"
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    url        = "/posts"
 
