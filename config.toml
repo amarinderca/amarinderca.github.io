@@ -1,6 +1,6 @@
 baseURL = "https://amarinderca.github.io"
 languageCode = "en-us"
-title = "amarinder.ca blog"
+title = "Amarinder's Blog"
 theme = "hugo-theme-hello-friend-ng"
 paginatei = 10
 
@@ -11,7 +11,7 @@ paginatei = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "amarinder's blog and contact info"
+  homeSubtitle = "Amarinder's Blog"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -36,7 +36,7 @@ paginatei = 10
 # social
 [[params.social]]
    name = "email"
-   url  = "mailto:mailbox@amarinder.ca"
+   url  = "mailto:hi@amarinder.ca"
 
 [[params.social]]
    name = "linkedin"
@@ -48,13 +48,13 @@ paginatei = 10
 
 [languages]
   [languages.en]
-    title = "amarinder.ca blog"
+    title = "Amarinder's Blog"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "other posts"
 
   [languages.en.params]
-    subtitle  = "amarinder's blog and contact info"
+    subtitle  = "Amarinder's Blog"
 
     [languages.en.params.logo]
       logoText = "home"
